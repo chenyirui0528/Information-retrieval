@@ -1,0 +1,6 @@
+name: mie451-assignment-ir
+dependencies:
+  - python=3.6
+  - nb_conda
+  - whoosh=2.7.4
+  - nltk=3.3.0
