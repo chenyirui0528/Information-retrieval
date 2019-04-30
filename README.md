@@ -1,8 +1,16 @@
-# Information-retrieval
-信息检索的学习资料
-
-改进的BM25F代码实现及BM25F评分机制原理：
-https://wenku.baidu.com/view/a80481eb0b4c2e3f572763fd.html
-
-TF/IDF及BM25评分机制原理：
-https://blog.csdn.net/heiyeshuwu/article/details/43429447
+# Lab1
+--------
+1. Clone repository using git clone
+2. Go to the repository's folder
+3. Create the environment:
+```
+conda env create --force -f environment.yml
+```
+4. Activate the environment:
+```
+activate mie451-assignment-ir
+```
+5. Run Jupyter notebook:
+```
+jupyter notebook
+```
