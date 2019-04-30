@@ -6,3 +6,5 @@ https://wenku.baidu.com/view/a80481eb0b4c2e3f572763fd.html
 
 TF/IDF及BM25评分机制原理：
 https://blog.csdn.net/heiyeshuwu/article/details/43429447
+
+个人项目：基于python+whoosh的全文检索实现
